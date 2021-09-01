@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+venv/
+log.html
+output.xml
+report.html
+*.png
